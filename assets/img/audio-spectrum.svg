@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25.841" height="29.533" viewBox="0 0 25.841 29.533">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0077c8"/>
+      <stop offset="1" stop-color="#60aadf"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_open-audio-spectrum" data-name="Icon open-audio-spectrum" d="M14.766,0V29.533h3.692V0ZM7.383,3.692v22.15h3.692V3.692ZM22.15,7.383V22.15h3.692V7.383ZM0,11.075v7.383H3.692V11.075Z" fill="url(#linear-gradient)"/>
+</svg>
